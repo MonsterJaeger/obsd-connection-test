@@ -1,3 +1,13 @@
+# user content
+.ssh/
+#delete-vlans.sh
+deploy.sh
+nact.py
+obsd-connection-test.py
+obsd-paramiko.py
+rc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
